@@ -10,7 +10,7 @@ Læringsmålene for i dag og næste tirsdag er følgende:
 * Forking & Pull Requests
 
 ## Øvelser
-* xxx
+* [Øvelse 1](https://github.com/dat18v2-2semester/git_github_ex_1/blob/master/README.md)
 * xxx
 
 ## Literatur
