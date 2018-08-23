@@ -11,7 +11,7 @@ Læringsmålene for i dag og næste tirsdag er følgende:
 
 ## Øvelser
 * [Øvelse 1](https://github.com/dat18v2-2semester/git_github_ex_1/blob/master/README.md)
-* [Øvelse 2]()
+* [Øvelse 2](https://github.com/dat18v2-2semester/git_github_ex_2/blob/master/README.md)
 * [Øvelse 3]()
 
 ## Literatur
