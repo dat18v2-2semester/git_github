@@ -1,7 +1,10 @@
 # Git & Github
-Agenda d. 4/9 git og GitHub
 
-![git logo](https://github.com/dat18v2-2semester/git_github/blob/master/1280px-Git-logo.svg.png)
+
+![git logo](https://github.com/dat18v2-2semester/git_github/blob/master/1280px-Git-logo.svg.png)    
+
+
+Agenda d. 4/9 git og GitHub
 
 Læringsmålene for i dag og næste tirsdag er følgende:
 * Gennemgang af det i lærte og arbejde med sidste semester.
