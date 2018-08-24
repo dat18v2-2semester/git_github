@@ -6,7 +6,7 @@ Læringsmålene for i dag og næste tirsdag er følgende:
 * Pull
 * Branches
 * Merging
-* Handeling pull and merge conflicts
+* Pull and merge conflicts
 * Forking & Pull Requests
 
 ## Øvelser
