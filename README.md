@@ -1,7 +1,7 @@
 # Git & Github
 
 
-![git logo](https://github.com/dat18v2-2semester/git_github/blob/master/1280px-Git-logo.svg.png)    
+![git logo](https://github.com/dat18v2-2semester/git_github/blob/master/Git-Logo-1788C_600x251.jpg)    
 
 
 Agenda d. 4/9 git og GitHub
